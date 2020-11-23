@@ -14,3 +14,7 @@
  ### 📧 Contato:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanderson-machado-de-araujo-83bab324/)](https://www.linkedin.com/in/sanderson-machado-de-araujo-83bab324/)  [![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Outlook&logoColor=white&link=mailtosandersonmachadoaraujo@hotmail.com)](mailto:sandersonmachadoaraujo@hotmail.com)
+
+<p align = "center">
+  <a href="https://github.com/smaraujo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaraujo&layout=compact&theme=dark"/></a> 
+</p> 
